@@ -6,7 +6,7 @@ Page Resources allows you to relate one or more resources to any page in Refiner
 
 ## Requirements
 
-* refinerycms >= 2.1.0
+* refinerycms >= 2.0.0
 
 ## Features
 

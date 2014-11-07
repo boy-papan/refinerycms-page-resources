@@ -35,7 +35,7 @@
             $(this).parents('li').first().remove();
             reindex_resources();
           });
-    resActions.find('._caption').click(function(){open_resource_caps(this)});                 
+    resActions.find('._caption').click(function(){open_resource_caps(this)});
 
     resTab.find('a').click(function(){
       if (!(picker = resPicker).data('size-applied')){
